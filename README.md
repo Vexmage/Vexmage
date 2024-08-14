@@ -1,16 +1,13 @@
-## Hi there 👋
+# Joel Southall
 
-<!--
-**Vexmage/Vexmage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there!
+I'm Joel, a web and software developer with experience in ASP.NET Core, React Native, and WordPress. 
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Languages:** C#, JavaScript, Python
+- **Frameworks:** ASP.NET Core, React Native
+- **Databases:** MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [TribeFinder](https://github.com/vexmage/TribeFinder): A web and mobile app to locate tribal offices.
+- [NAACM Website](https://github.com/vexmage/NAACM-website): A site promoting local Indigenous artists and vendors.
