@@ -5,7 +5,8 @@ I'm Joel, a web and software developer with experience in ASP.NET Core, React Na
 
 ### 🛠️ Technologies & Tools
 - **Languages:** HTML, CSS, JavaScript, C++, C#, Python, SQL
-- **Frameworks:** ASP.NET Core, React Native
+- **Frameworks:** ASP.NET Core, React Native, EF Core, Bootstrap
+- **Tools/Libraries** Firebase, Node.js, Identity, Webpack, ADO.NET
 - **Databases:** MySQL, MongoDB
 
 ### 🚀 Projects
