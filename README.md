@@ -1,7 +1,7 @@
 # Joel Southall
 
 ### 👋 Hi there!
-I'm Joel, a web and software developer with experience in ASP.NET Core, React Native, and WordPress. 
+I'm Joel, a web and software developer with experience in ASP.NET Core, React Native, Node.js and WordPress. 
 
 -🎓 I recently graduated with an AAS in Software Development from Lane Community College.
 
