@@ -4,7 +4,7 @@
 I'm Joel, a web and software developer with experience in ASP.NET Core, React Native, and WordPress. 
 
 ### 🛠️ Technologies & Tools
-- **Languages:** C#, JavaScript, Python
+- **Languages:** HTML, CSS, JavaScript, C++, C#, Python, SQL
 - **Frameworks:** ASP.NET Core, React Native
 - **Databases:** MySQL, MongoDB
 
