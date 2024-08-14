@@ -18,6 +18,10 @@ I'm Joel, a web and software developer with experience in ASP.NET Core, React Na
 
 ### 🚀 Projects
 - [TribeFinder](https://github.com/vexmage/TribeFinder): A web and mobile app to locate tribal offices.
+- [Word of the Day App](#)**: Developed an app to teach Indigenous languages using React Native and Firebase, integrating instructional design principles.
+- [Native American Arts and Crafts Market Website](#)**: Created a culturally sensitive and accessible website for local vendors, with a focus on educational content.
+- [Let's Move Fitness Instructor Web Application](#)**: A fitness training web application with user registration, class management, and educational content delivery.
+
 
 ### 🌐 Find Me Online
 
