@@ -11,10 +11,14 @@ I'm Joel, a web and software developer with experience in ASP.NET Core, React Na
 
 
 ### 🛠️ Technologies & Tools
-- **Languages:** HTML, CSS, JavaScript, C++, C#, Python, SQL
-- **Frameworks:** ASP.NET Core, React Native, EF Core, Bootstrap
-- **Tools/Libraries** Firebase, Node.js, Identity, Webpack, ADO.NET
-- **Databases:** Windows SQL Server, MySQL, MongoDB
+- **Programming Languages:** C#, JavaScript, HTML, CSS, Python, Golang
+- **Frameworks & Technologies:** ASP.NET Core, React, React Native, Bootstrap, Expo, jQuery, Express.js, .NET framework
+- **Runtime Environment:** Node.js
+- **Build Tools:** Babel, Webpack
+- **Database Management:** SQL, MySQL, MongoDB
+- **Project Management Tools:** Trello, Jira
+- **Software Development:** Agile methodologies, Object-Oriented Programming (OOP), Software Development Lifecycle (SDLC)
+- **Tools:** Git, GitHub, Visual Studio, MySQL Workbench
 
 ### 🚀 Projects
 - [TribeFinder](https://github.com/vexmage/TribeFinder): A web and mobile app to locate tribal offices.
