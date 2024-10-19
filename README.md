@@ -21,7 +21,7 @@ I'm Joel, a web and software developer with experience in ASP.NET Core, React Na
 - **Tools:** Git, GitHub, Visual Studio, MySQL Workbench
 
 ### 🚀 Projects
-- [TribeFinder](https://github.com/vexmage/TribeFinder): A web and mobile app to locate tribal offices.
+- [TribeFinderReact](https://github.com/vexmage/tribe-finder-react): A web and mobile app to locate tribal offices, now in React!
 - [HeroBaseMobile](https://github.com/Vexmage/HeroBaseMobile): A mobile app to create and store TTRPG characters.
 
 
