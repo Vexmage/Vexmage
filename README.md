@@ -11,7 +11,7 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 
 
 ### 🛠️ Technologies & Tools
-- **Programming Languages:** C#, JavaScript, HTML, CSS, Python, Golang
+- **Programming Languages:** C#, JavaScript, HTML, CSS, Python, PHP
 - **Frameworks & Technologies:** ASP.NET Core, React, React Native, Bootstrap, Expo, jQuery, Express.js, .NET framework
 - **Runtime Environment:** Node.js
 - **Build Tools:** Babel, Webpack
