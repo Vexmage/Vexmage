@@ -3,9 +3,9 @@
 ### 👋 Hi there!
 I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blazor, React, React Native, Node.js and WordPress. 
 
--🎓 I recently graduated with an AAS in Software Development from Lane Community College.
+-🎓 I have an AAS in Software Development from Lane Community College and a MA in Philosophy from University of Oregon.
 
--🌱 I'm currently expanding my expertise in ASP.NET Core, React Native, and eCommerce solutions.
+-🌱 I'm currently expanding my expertise in ASP.NET Core, Blazor, and eCommerce solutions.
 
 -🌍 Passionate about creating culturally responsive educational tools and exploring eCommerce solutions.
 
