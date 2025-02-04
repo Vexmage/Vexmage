@@ -24,7 +24,7 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 - [TribeFinderReact](https://github.com/vexmage/tribe-finder-react): A web and mobile app to locate tribal offices, now in React!
 - [HeroBaseMobile](https://github.com/Vexmage/HeroBaseMobile): A mobile app to create and store TTRPG characters.
 - [WordoftheDayApp](https://github.com/Vexmage/Word-of-the-Day-App): A mobile app toward learning the Blackfoot language.
-
+- [BlazorGraphQL](https://github.com/Vexmage/BlazorGraphQL): BlazorGraphQL is a Blazor Server application that integrates GraphQL to provide an efficient, flexible API for fetching, adding, updating, and deleting books from a SQLite database.
 
 
 ### 🌐 Find Me Online
