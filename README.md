@@ -32,3 +32,13 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 - **Portfolio:** [greatlynxdesigns.com/portfolio](https://greatlynxdesigns.com/portfolio)
 - **GitHub:** [github.com/Vexmage](https://github.com/Vexmage)
 - **Email:** joel.max.southall@gmail.com
+
+
+### 🤝 Contributing
+
+Pull requests are welcome! Feel free to open an issue or submit improvements.
+
+### 📝 License
+
+This project is licensed under the MIT License.
+
