@@ -33,5 +33,5 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 
 ### 🤝 Contributing
 
-Pull requests are welcome! Feel free to open an issue or submit improvements.
+Pull requests are welcome! Feel free to open an issue or submit improvements to my various projects.
 
