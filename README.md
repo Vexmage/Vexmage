@@ -35,7 +35,3 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 
 Pull requests are welcome! Feel free to open an issue or submit improvements.
 
-### 📝 License
-
-This project is licensed under the MIT License.
-
