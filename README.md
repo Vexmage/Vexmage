@@ -1,14 +1,13 @@
 # Joel Southall
 
 ### 👋 Hi there!
-I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blazor, React, React Native, Node.js and WordPress. 
+I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blazor, React, React Native, Node.js, and WordPress. My focus is on building scalable, user-friendly applications that enhance learning, community engagement, and business solutions.
 
--🎓 I have an AAS in Software Development from Lane Community College and a MA in Philosophy from University of Oregon.
+    🎓 I have an AAS in Software Development from Lane Community College and an MA in Philosophy from the University of Oregon. My background in philosophy informs my approach to problem-solving, emphasizing structured thinking, clarity, and adaptability in software development.
 
--🌱 I'm currently expanding my expertise in ASP.NET Core, Blazor, and eCommerce solutions.
+    🏗️ I specialize in full-stack development with a strong emphasis on ASP.NET Core, Blazor, and modern front-end frameworks to create efficient, maintainable applications. My experience includes database-driven web apps, eCommerce platforms, and interactive learning tools.
 
--🌍 Passionate about creating culturally responsive educational tools and exploring eCommerce solutions.
-
+    🌍 I am passionate about developing culturally responsive educational tools, improving digital access for underrepresented communities, and building innovative business solutions with technology.
 
 ### 🛠️ Technologies & Tools
 - **Programming Languages:** C#, JavaScript, HTML, CSS, Python, PHP
@@ -21,9 +20,8 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 - **Tools:** Git, GitHub, Visual Studio, MySQL Workbench
 
 ### 🚀 Projects
-- [HeroBaseMobile](https://github.com/Vexmage/HeroBaseMobile): A mobile app to create and store TTRPG characters.
 - [WordoftheDayApp](https://github.com/Vexmage/Word-of-the-Day-App): A mobile app toward learning the Blackfoot language.
-- [BlazorGraphQL](https://github.com/Vexmage/BlazorGraphQL): BlazorGraphQL is a Blazor Server application that integrates GraphQL to provide an efficient, flexible API for fetching, adding, updating, and deleting books from a SQLite database.
+- [BlazorGraphQL](https://github.com/Vexmage/BlazorGraphQL): A Blazor Server app integrating GraphQL for managing book data via SQLite.
 
 
 ### 🌐 Find Me Online
