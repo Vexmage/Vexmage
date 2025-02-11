@@ -22,7 +22,7 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 ### 🚀 Projects
 - [WordoftheDayApp](https://github.com/Vexmage/Word-of-the-Day-App): A mobile app toward learning the Blackfoot language.
 - [BlazorGraphQL](https://github.com/Vexmage/BlazorGraphQL): A Blazor Server app integrating GraphQL for managing book data via SQLite.
-
+- [ShelterFinder](https://github.com/Vexmage/shelter_finder): WIP: mobile-friendly web app built with Flutter that helps users locate nearby homeless shelters, soup kitchens, and food banks using Google Maps and geolocation services. 
 
 ### 🌐 Find Me Online
 
