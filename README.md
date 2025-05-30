@@ -18,7 +18,7 @@ I'm Joel Southall — a full-stack web and software developer with a passion for
 - **Languages**: C#, JavaScript, HTML/CSS, PHP, Python
 - **Frameworks**: ASP.NET Core, Blazor, React, React Native, Flutter (Dart), Node.js, Express
 - **Databases**: Firebase, MongoDB, SQL Server, MySQL, SQLite
-- **Tooling**: Git, Visual Studio, VS Code, MySQL Workbench, Trello, Webpack
+- **Tooling**: Git, Visual Studio, VS Code, Webpack, Trello, MySQL Workbench
 - **Dev Practices**: OOP, Agile, SDLC, accessibility-first design
 
 ### 🚀 Projects
