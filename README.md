@@ -22,16 +22,35 @@ I'm Joel Southall — a full-stack web and software developer with a passion for
 - **Dev Practices**: OOP, Agile, SDLC, accessibility-first design
 
 ### 🚀 Projects
-- [WordoftheDayApp](https://github.com/Vexmage/Word-of-the-Day-App): A mobile app toward learning the Blackfoot language.
-- [BlazorGraphQL](https://github.com/Vexmage/BlazorGraphQL): A Blazor Server app integrating GraphQL for managing book data via SQLite.
-- [ShelterFinder](https://github.com/Vexmage/shelter_finder): WIP: mobile-friendly web app built with Flutter that helps users locate nearby homeless shelters, soup kitchens, and food banks using Google Maps and geolocation services. 
+
+- [**GardenSense**](https://github.com/Vexmage/GardenSense) – *Blazor Server | WIP*  
+  A smart gardening interface for planning zones, light schedules, and future sensor integration (e.g., Raspberry Pi). Demonstrates component-driven UI and real-time updates.
+
+- [**Philosobot**](https://github.com/Vexmage/BlazorChatbot) – *Blazor Server + OpenAI API | WIP*  
+  A philosophical chatbot with selectable personas (analytic, poetic, postcolonial) powered by prompt-engineered GPT. Created for workshops and thoughtful AI interaction.
+
+- [**TribeFinder**](https://github.com/Vexmage/tribe-finder-react) – *React + Google Maps API*  
+  A web app that locates the five nearest tribal offices using public data and geolocation. Features responsive UI and custom GeoJSON-based map overlays. [React Native version in progress.]
+
+- [**Hop with Waabooz**](https://github.com/Vexmage/hop-with-waabooz) – *React + Firebase | WIP*  
+  A culturally responsive word-of-the-day app teaching Ojibwe vocabulary. Includes mascot-led lessons, daily word rotation, and future audio/image enhancements. Built for kids and educators.
+
+- [**BlazorGraphQL**](https://github.com/Vexmage/BlazorGraphQL) – *Blazor Server + GraphQL + SQLite | WIP*  
+  A book management system using GraphQL for data queries and mutations. Demonstrates full-stack Blazor development with schema-first data flow.
+
+- [**ShelterFinder**](https://github.com/Vexmage/shelter_finder) – *Flutter (Dart) + Google Maps API | WIP*  
+  A mobile-friendly app that helps users locate nearby homeless shelters, soup kitchens, and food banks. Designed with accessibility and real-time expansion in mind.
+
+- [**WordoftheDayApp**](https://github.com/Vexmage/Word-of-the-Day-App) – *React Native + Expo*  
+  An early mobile app for Blackfoot language learning. Predecessor to *Hop with Waabooz*, this project sparked a broader focus on culturally grounded educational tools.
+
+
 
 ### 🌐 Find Me Online
 
 - **Portfolio:** [greatlynxdesigns.com/portfolio](https://greatlynxdesigns.com/portfolio)
 - **GitHub:** [github.com/Vexmage](https://github.com/Vexmage)
 - **Email:** joel.max.southall@gmail.com
-
 
 ### 🤝 Contributing
 I'm always open to feedback, pull requests, and collaboration — especially on projects involving language learning, creative tools, or accessibility in tech.
