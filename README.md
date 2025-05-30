@@ -1,23 +1,25 @@
 # Joel Southall
 
 ### 👋 Hi there!
-I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blazor, React, React Native, Node.js, and WordPress. My focus is on building scalable, user-friendly applications that enhance learning, community engagement, and business solutions.
+I'm Joel Southall — a full-stack web and software developer with a passion for community-driven tech, educational tools, and cross-cultural engagement.
 
-    🎓 I have an AAS in Software Development from Lane Community College and an MA in Philosophy from the University of Oregon. My background in philosophy informs my approach to problem-solving, emphasizing structured thinking, clarity, and adaptability in software development.
+### 🛠️ I build applications using ASP.NET Core, Blazor, React, and Firebase — blending modern front-end frameworks with scalable backends. I also maintain and customize WordPress sites for clients and personal projects.
 
-    🏗️ I specialize in full-stack development with a strong emphasis on ASP.NET Core, Blazor, and modern front-end frameworks to create efficient, maintainable applications. My experience includes database-driven web apps, eCommerce platforms, and interactive learning tools.
+### 🎓 I hold an AAS in Software Development and an MA in Philosophy. My background in logic and critical thinking deeply informs my design and problem-solving approach.
 
-    🌍 I am passionate about developing culturally responsive educational tools, improving digital access for underrepresented communities, and building innovative business solutions with technology.
+### 🌱 My work explores:
+- **Educational apps** like *Hop with Waabooz*, a Firebase-backed word-of-the-day app for Ojibwe language learning.
+- **Civic tools** like *TribeFinder*, which maps the nearest tribal offices using React and Google Maps API.
+- **Cultural and creative projects**, from narrative design in RPGs to community-focused IoT-style tools like *GardenSense*.
+- **AI + UX experiments**, including *Philosobot*, a Blazor Server chatbot with philosophical personas powered by OpenAI.
+🌐 Organizer of the [EugDotNet Meetup](https://www.meetup.com/eugdotnet/) in Eugene, Oregon, where I host workshops on Blazor, APIs, and full-stack topics.
 
-### 🛠️ Technologies & Tools
-- **Programming Languages:** C#, JavaScript, HTML, CSS, Python, PHP
-- **Frameworks & Technologies:** ASP.NET Core, React, React Native, Bootstrap, Expo, jQuery, Express.js, .NET framework
-- **Runtime Environment:** Node.js
-- **Build Tools:** Babel, Webpack
-- **Database Management:** SQL, MySQL, MongoDB
-- **Project Management Tools:** Trello, Jira
-- **Software Development:** Agile methodologies, Object-Oriented Programming (OOP), Software Development Lifecycle (SDLC)
-- **Tools:** Git, GitHub, Visual Studio, MySQL Workbench
+### 💡 Skills Snapshot:
+- **Languages**: C#, JavaScript, HTML/CSS, PHP, Python
+- **Frameworks**: ASP.NET Core, Blazor, React, React Native, Flutter (Dart), Node.js, Express
+- **Databases**: MySQL, SQLite, MongoDB, Firebase
+- **Tooling**: Git, Visual Studio, VS Code, MySQL Workbench, Trello, Webpack
+- **Dev Practices**: OOP, Agile, SDLC, accessibility-first design
 
 ### 🚀 Projects
 - [WordoftheDayApp](https://github.com/Vexmage/Word-of-the-Day-App): A mobile app toward learning the Blackfoot language.
@@ -32,6 +34,5 @@ I'm Joel, a web and software developer with experience in ASP.NET Core MVC, Blaz
 
 
 ### 🤝 Contributing
-
-Pull requests are welcome! Feel free to open an issue or submit improvements to my various projects.
+I'm always open to feedback, pull requests, and collaboration — especially on projects involving language learning, creative tools, or accessibility in tech.
 
