@@ -3,9 +3,9 @@
 ### 👋 Hi there!
 I'm Joel Southall — a full-stack web and software developer with a passion for community-driven tech, educational tools, and cross-cultural engagement.
 
-### 🛠️ I build applications using ASP.NET Core, Blazor, React, and Firebase — blending modern front-end frameworks with scalable backends. I also maintain and customize WordPress sites for clients and personal projects.
+🛠️ I build applications using ASP.NET Core, Blazor, React, and Firebase — blending modern front-end frameworks with scalable backends. I also maintain and customize WordPress sites for clients and personal projects.
 
-### 🎓 I hold an AAS in Software Development and an MA in Philosophy. My background in logic and critical thinking deeply informs my design and problem-solving approach.
+🎓 I hold an AAS in Software Development and an MA in Philosophy. My background in logic and critical thinking deeply informs my design and problem-solving approach.
 
 ### 🌱 My work explores:
 - **Educational apps** like *Hop with Waabooz*, a Firebase-backed word-of-the-day app for Ojibwe language learning.
