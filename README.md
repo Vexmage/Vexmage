@@ -6,14 +6,6 @@ I'm Joel Southall — a full-stack developer focused on web applications, data-d
 
 I build systems that work with real-world data and are designed to be practical, maintainable, and useful to actual users.
 
-## 🧭 What I Work On
-
-My work centers around:
-
-- Geographic & data-driven applications
-- Web systems that support real-world workflows
-- Educational and community-focused tools
-
 ## 🗺️ Featured Project
 TribeFinder – React + GeoJSON + Mapping APIs
 
@@ -25,6 +17,14 @@ A web application that locates nearby tribal offices using federal geographic da
 - Expanded into React and mobile versions
 
 👉 This project reflects my interest in civic data, mapping systems, and real-world usability
+
+## 🧭 What I Work On
+
+My work centers around:
+
+- Geographic & data-driven applications
+- Web systems that support real-world workflows
+- Educational and community-focused tools
 
 ## 🛠️ Technical Focus
 - Languages: C#, JavaScript, Python, PHP
