@@ -35,13 +35,13 @@ My work centers around:
 
 ## 💡 Additional Projects
 - Hop with Waabooz – React + Firebase
-- Word-of-the-day app for Ojibwe language learning (education-focused)
+ Word-of-the-day app for Ojibwe language learning (education-focused)
 - BlazorGraphQL – Blazor + GraphQL + SQLite
-- Data-driven application demonstrating structured query workflows
+ Data-driven application demonstrating structured query workflows
 - ShelterFinder – Flutter + Maps
-- Tool for locating shelters and food resources (civic + accessibility focus)
+ Tool for locating shelters and food resources (civic + accessibility focus)
 - Philosobot – Blazor + OpenAI
-- Experimental chatbot exploring structured interaction and personas
+ Experimental chatbot exploring structured interaction and personas
 
 ## 🌐 Community & Involvement
 - Organizer, EugDotNet Meetup (Eugene, OR)
