@@ -1,57 +1,67 @@
 # Joel Southall
 
-### 👋 Hi there!
-I'm Joel Southall — a full-stack web and software developer with a passion for community-driven tech, educational tools, and cross-cultural engagement.
+## 👋 Hi there!
 
-🛠️ I build applications using ASP.NET Core, Blazor, React, SQL, Firebase, and more — blending modern front-end frameworks with scalable backends. I also maintain and customize WordPress sites for clients and personal projects.
+I'm Joel Southall — a full-stack developer focused on web applications, data-driven tools, and civic technology.
 
-🎓 I hold an AAS in Software Development and an MA in Philosophy. My background in logic and critical thinking deeply informs my design and problem-solving approach.
+I build systems that work with real-world data and are designed to be practical, maintainable, and useful to actual users.
 
-### 🌱 My work explores:
-- **Educational apps** like *Hop with Waabooz*, a Firebase-backed word-of-the-day app for Ojibwe language learning.
-- **Civic tools** like *TribeFinder*, which maps the nearest tribal offices using React and Google Maps API.
-- **Cultural and creative projects**, from narrative design in RPGs to community-focused IoT-style tools like *GardenSense*.
-- **AI + UX experiments**, including *Philosobot*, a Blazor Server chatbot with philosophical personas powered by OpenAI.
-🌐 Organizer of the [EugDotNet Meetup](https://www.meetup.com/eugdotnet/) in Eugene, Oregon, where I host workshops on Blazor, APIs, and full-stack topics.
+## 🧭 What I Work On
 
-### 💡 Skills Snapshot:
-- **Languages**: C#, JavaScript, HTML/CSS, PHP, Python
-- **Frameworks**: ASP.NET Core, Blazor, React, React Native, Flutter (Dart), Node.js, Express
-- **Databases**: Firebase, MongoDB, SQL Server, MySQL, SQLite
-- **Tooling**: Git, Visual Studio, VS Code, Webpack, Trello, MySQL Workbench
-- **Dev Practices**: OOP, Agile, SDLC, accessibility-first design
+My work centers around:
 
-### 🚀 Projects
+- Geographic & data-driven applications
+- Web systems that support real-world workflows
+- Educational and community-focused tools
 
-- [**GardenSense**](https://github.com/Vexmage/GardenSense) – *Blazor Server | WIP*  
-  A smart gardening interface for planning zones, light schedules, and future sensor integration (e.g., Raspberry Pi). Demonstrates component-driven UI and real-time updates.
+## 🗺️ Featured Project
+TribeFinder – React + GeoJSON + Mapping APIs
 
-- [**Philosobot**](https://github.com/Vexmage/BlazorChatbot) – *Blazor Server + OpenAI API | WIP*  
-  A philosophical chatbot with selectable personas (analytic, poetic, postcolonial) powered by prompt-engineered GPT. Created for workshops and thoughtful AI interaction.
+A web application that locates nearby tribal offices using federal geographic datasets.
 
-- [**TribeFinder**](https://github.com/Vexmage/tribe-finder-react) – *React + Google Maps API*  
-  A web app that locates the five nearest tribal offices using public data and geolocation. Features responsive UI and custom GeoJSON-based map overlays. [React Native version in progress.]
+- Works with structured GeoJSON data
+- Implements location-based queries
+- Presents data through interactive mapping interfaces
+- Expanded into React and mobile versions
 
-- [**Hop with Waabooz**](https://github.com/Vexmage/hop-with-waabooz) – *React + Firebase | WIP*  
-  A culturally responsive word-of-the-day app teaching Ojibwe vocabulary. Includes mascot-led lessons, daily word rotation, and future audio/image enhancements. Built for kids and educators.
+👉 This project reflects my interest in civic data, mapping systems, and real-world usability
 
-- [**BlazorGraphQL**](https://github.com/Vexmage/BlazorGraphQL) – *Blazor Server + GraphQL + SQLite | WIP*  
-  A book management system using GraphQL for data queries and mutations. Demonstrates full-stack Blazor development with schema-first data flow.
+## 🛠️ Technical Focus
+- Languages: C#, JavaScript, Python, PHP
+- Frameworks: ASP.NET Core, Blazor, React, React Native
+- Data: GeoJSON, REST APIs, SQL, Firebase, MongoDB
+- Systems: Linux, networking fundamentals, system configuration
+- Practices: Agile, documentation, accessibility-focused design
 
-- [**ShelterFinder**](https://github.com/Vexmage/shelter_finder) – *Flutter (Dart) + Google Maps API | WIP*  
-  A mobile-friendly app that helps users locate nearby homeless shelters, soup kitchens, and food banks. Designed with accessibility and real-time expansion in mind.
+## 💡 Additional Projects
+- Hop with Waabooz – React + Firebase
+- Word-of-the-day app for Ojibwe language learning (education-focused)
+- BlazorGraphQL – Blazor + GraphQL + SQLite
+- Data-driven application demonstrating structured query workflows
+- ShelterFinder – Flutter + Maps
+- Tool for locating shelters and food resources (civic + accessibility focus)
+- Philosobot – Blazor + OpenAI
+- Experimental chatbot exploring structured interaction and personas
 
-- [**WordoftheDayApp**](https://github.com/Vexmage/Word-of-the-Day-App) – *React Native + Expo*  
-  An early mobile app for Blackfoot language learning. Predecessor to *Hop with Waabooz*, this project sparked a broader focus on culturally grounded educational tools.
+## 🌐 Community & Involvement
+- Organizer, EugDotNet Meetup (Eugene, OR)
+- Regularly participate in local dev events and collaborative workshops
 
+## 🎓 Background
+- AAS in Software Development
+- MA in Philosophy
 
+My background in philosophy informs how I approach systems—focusing on clarity, structure, and real-world meaning.
 
-### 🌐 Find Me Online
+## 🌐 Find Me Online
+- Portfolio: https://greatlynxdesigns.com
+- GitHub: https://github.com/Vexmage
+- Email: joel.max.southall@gmail.com
 
-- **Portfolio:** [greatlynxdesigns.com/portfolio](https://greatlynxdesigns.com/portfolio)
-- **GitHub:** [github.com/Vexmage](https://github.com/Vexmage)
-- **Email:** joel.max.southall@gmail.com
+## 🤝 Collaboration
 
-### 🤝 Contributing
-I'm always open to feedback, pull requests, and collaboration — especially on projects involving language learning, creative tools, or accessibility in tech.
+Open to collaboration on:
 
+- data-driven applications
+- civic technology
+- educational tools
