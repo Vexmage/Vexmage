@@ -38,6 +38,7 @@ My work centers around:
 -- Word-of-the-day app for Ojibwe language learning (education-focused)
 - BlazorGraphQL – Blazor + GraphQL + SQLite
 -- Data-driven application demonstrating structured query workflows
+-- Portfolio page https://greatlynxdesigns.com/blazorgraphql-my-library-anti-library/
 - ShelterFinder – Flutter + Maps
 -- Tool for locating shelters and food resources (civic + accessibility focus)
 - Philosobot – Blazor + OpenAI
